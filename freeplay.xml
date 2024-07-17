@@ -35,7 +35,7 @@ credits to:
 		  
 		  <text name="logoText">
 			<color>FFFFFF</color>
-			<fontPath>./_inc/fonts/FiraSans-Regular.ttf</fontPath>
+			<fontPath>./_inc/fonts/Oswald-Light.ttf</fontPath>
 			<forceUppercase>false</forceUppercase>
 		  </text>
 
@@ -89,8 +89,8 @@ credits to:
 		<helpsystem name="help">
 			<textColor>${FPtextColor}</textColor>
 			<iconColor>${FPtextColor}</iconColor>
-			<fontPath>./_inc/fonts/FiraSans-Regular.ttf</fontPath>
-			<fontSize>0.04</fontSize>
+			<fontPath>./_inc/fonts/Oswald-Light.ttf</fontPath>
+			<fontSize>0.02</fontSize>
 		</helpsystem>
 	</view>
     
@@ -114,7 +114,7 @@ credits to:
 			<selectedColor>${FPtextColor}</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>ffff80</secondaryColor>
-			<fontPath>./_inc/fonts/FiraSans-Regular.ttf</fontPath>
+			<fontPath>./_inc/fonts/Oswald-Light.ttf</fontPath>
 			<pos>0.03 0.15</pos>
 			<size>0.937 0.74</size>
 			<fontSize>0.06</fontSize>
@@ -209,7 +209,7 @@ credits to:
 			<selectedColor>${FPtextColor}</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>ffff80</secondaryColor>
-			<fontPath>./_inc/fonts/FiraSans-Regular.ttf</fontPath>
+			<fontPath>./_inc/fonts/Oswald-Light.ttf</fontPath>
 			<pos>0.02 0.15</pos>
 			<size>0.595 0.74</size>
 			<fontSize>0.06</fontSize>

@@ -19,7 +19,7 @@
 			<color>FFFFFF</color>
 
 			<fontSize>0.035</fontSize>
-			<fontPath>./_inc/fonts/FiraSans-Regular.ttf</fontPath>
+			<fontPath>./_inc/fonts/Oswald-Light.ttf</fontPath>
 			<size>0.14 0.04</size>
 			<alignment>right</alignment>
 			<lineSpacing>1.0</lineSpacing>
@@ -28,14 +28,14 @@
 			<color>FFFFFF</color>
 
 			<fontSize>0.035</fontSize>
-			<fontPath>./_inc/fonts/FiraSans-Regular.ttf</fontPath>
+			<fontPath>./_inc/fonts/Oswald-Light.ttf</fontPath>
 			<size>0.185 0.04</size>
 			<lineSpacing>1.0</lineSpacing>
 		</text>
 		<datetime name="md_releasedate, md_lastplayed">	
 			<color>FFFFFF</color>
 			<fontSize>0.035</fontSize>
-			<fontPath>./_inc/fonts/FiraSans-Regular.ttf</fontPath>
+			<fontPath>./_inc/fonts/Oswald-Light.ttf</fontPath>
 		</datetime>
 
 		<text name="md_lbl_rating">
