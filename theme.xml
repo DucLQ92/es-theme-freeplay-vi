@@ -42,7 +42,7 @@
 		</menuBackground>
 		<menuText name="menutext, menutitle">
 			<fontPath>./_inc/fonts/Montserrat-Regular.ttf</fontPath>
-			<fontSize>.039</fontSize>
+			<fontSize>.042</fontSize>
 			<color>000000</color>
 		</menuText>
 	</view>
