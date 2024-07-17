@@ -18,6 +18,11 @@ credits to:
 	
 	<feature supported="carousel">
 		<view name="system">
+			<helpsystem name="help">
+				<fontPath>./_inc/fonts/Montserrat-bold.ttf</fontPath>
+				<textColor>101010</textColor>
+				<iconColor>101010</iconColor>
+			</helpsystem>
 		  <carousel name="systemcarousel">
 			   <type>horizontal_wheel</type>
 			   <origin>0.5 0.5</origin>
@@ -90,7 +95,7 @@ credits to:
 			<textColor>${FPtextColor}</textColor>
 			<iconColor>${FPtextColor}</iconColor>
 			<fontPath>./_inc/fonts/Oswald-Light.ttf</fontPath>
-			<fontSize>0.02</fontSize>
+			<fontSize>0.03</fontSize>
 		</helpsystem>
 	</view>
     
