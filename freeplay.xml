@@ -22,7 +22,7 @@ credits to:
 				<textColor>${FPtextColor}</textColor>
 				<iconColor>${FPtextColor}</iconColor>
 				<fontPath>./_inc/fonts/Oswald-Light.ttf</fontPath>
-				<fontSize>0.035</fontSize>
+				<fontSize>0.04</fontSize>
 			</helpsystem>
 		  <carousel name="systemcarousel">
 			   <type>horizontal_wheel</type>
@@ -63,7 +63,7 @@ credits to:
 				<color>${FPtextColor}</color>
 				<pos>0 0.655</pos>
 				<size>1 0.062</size>
-				<fontPath>./_inc/fonts/Oswald-Light.ttf</fontPath>
+				<fontPath>./_inc/fonts/Montserrat-Regular.ttf</fontPath>
 				<fontSize>0.05</fontSize>
 
 			</text>
