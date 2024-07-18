@@ -50,7 +50,7 @@
             <pos>0.5 0.220</pos>
             <maxSize>1 0.200</maxSize>
             <zIndex>39</zIndex>
-            <color>${FPselectColor}66</color>
+            <color>${FPselectColor}ff</color>
         </image>
 
         <textlist name="gamelist">
@@ -71,7 +71,7 @@
         <menuBackground name="menubg">
             <color>${FPbgMenuColor}</color>
         </menuBackground>
-        <menuText name="menutext, menutitle">
+        <menuText name="menutext">
             <fontPath>./_inc/fonts/Oswald-Light.ttf</fontPath>
             <fontSize>.042</fontSize>
             <color>${FPthemeColor}</color>
@@ -79,11 +79,16 @@
             <selectedColor>${FPtextColor}</selectedColor>
             <selectorColor>${FPthemeColor}</selectorColor>
         </menuText>
+        <menuText name="menutitle">
+            <fontPath>./_inc/fonts/Oswald-Light.ttf</fontPath>
+            <fontSize>.052</fontSize>
+            <color>${FPthemeColor}</color>
+            <separatorColor>ffff00</separatorColor>
+            <selectedColor>${FPtextColor}</selectedColor>
+            <selectorColor>bd2d3c</selectorColor>
+        </menuText>
         <menuText name="menufooter, menutextsmall">
             <color>${FPthemeColor}</color>
         </menuText>
-        <menuSwitch name="menuswitch">
-            <color>${FPthemeColor}</color>
-        </menuSwitch>
     </view>
 </theme>
