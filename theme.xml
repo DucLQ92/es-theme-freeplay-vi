@@ -5,8 +5,8 @@
 	<include>./metadata_none.xml</include>  <!-- Options: metadata_none, metadata_basic -->
 
     <variables>
-		<subset.colorset>Theme Color</subset.colorset>
-		<fontsize>Gamelist Font Size</fontsize>
+		<subset.colorset>Màu Chủ Đề</subset.colorset>
+		<fontsize>Cỡ Chữ Danh Sách Trò Chơi</fontsize>
     </variables>
 
      <subset name="colorset" displayName="${subset.colorset}">
@@ -22,6 +22,7 @@
 		<include name="platinum" displayName="${platinum}">./_colors/platinum.xml</include>
 		<include name="white" displayName="${white}">./_colors/white.xml</include>
 		<include name="black" displayName="${black}">./_colors/black.xml</include>
+		<include name="retro" displayName="${black}">./_colors/retro.xml</include>
     </subset>
 	
 	<subset name="fontsize" displayName="${fontsize}">
