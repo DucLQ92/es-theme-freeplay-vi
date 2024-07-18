@@ -91,7 +91,7 @@ credits to:
 			<textColor>${FPtextColor}</textColor>
 			<iconColor>${FPtextColor}</iconColor>
 			<fontPath>./_inc/fonts/Oswald-Light.ttf</fontPath>
-			<fontSize>0.025</fontSize>
+			<fontSize>0.03</fontSize>
 		</helpsystem>
 	</view>
     
