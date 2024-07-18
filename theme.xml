@@ -64,6 +64,9 @@
 	<include>./freeplay.xml</include>
 
 	<view name="menu">
+		<helpsystem name="help">
+			<color>${FPtextColor}</color>
+		</helpsystem>
 		<menuBackground name="menubg">
 			<color>${FPthemeColor}</color>
 		</menuBackground>
@@ -71,6 +74,13 @@
 			<fontPath>./_inc/fonts/Oswald-Light.ttf</fontPath>
 			<fontSize>.042</fontSize>
 			<color>${FPtextColor}</color>
+			<separatorColor>${FPtextColor}</separatorColor>
 		</menuText>
+		<menuText name="menufooter, menutextsmall">
+			<color>${FPtextColor}</color>
+		</menuText>
+		<menuSwitch name="menuswitch">
+			<color>${FPtextColor}</color>
+		</menuSwitch>
 	</view>
 </theme>
