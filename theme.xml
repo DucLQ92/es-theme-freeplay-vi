@@ -83,9 +83,8 @@
             <fontPath>./_inc/fonts/Oswald-Light.ttf</fontPath>
             <fontSize>.052</fontSize>
             <color>${FPthemeColor}</color>
-            <separatorColor>ffff00</separatorColor>
             <selectedColor>${FPtextColor}</selectedColor>
-            <selectorColor>bd2d3c</selectorColor>
+            <selectorColor>${FPbgMenuColor}</selectorColor>
         </menuText>
         <menuText name="menufooter, menutextsmall">
             <color>${FPthemeColor}</color>
