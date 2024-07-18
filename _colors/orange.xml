@@ -15,7 +15,7 @@
 	<!-- <FPthemeColor>d82113</FPthemeColor><FPselectColor>d82113</FPselectColor><FPtextColor>ffffff</FPtextColor> -->
 	
 	<!-- SPICE/ORANGE THEME: Uncomment line below to activate -->
-	<FPthemeColor>d8660d</FPthemeColor><FPselectColor>d8660d</FPselectColor><FPtextColor>000000</FPtextColor>
+	<FPthemeColor>d8660d</FPthemeColor><FPselectColor>d8660d</FPselectColor><FPtextColor>000000</FPtextColor><FPbgMenuColor>c5beb4</FPbgMenuColor>
 	
 	<!-- GOLD THEME: Uncomment line below to activate -->
 	<!-- <FPthemeColor>f3d06a</FPthemeColor><FPselectColor>f3d06a</FPselectColor><FPtextColor>000000</FPtextColor> -->

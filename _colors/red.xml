@@ -12,7 +12,7 @@
 -->
 	
 	<!-- RED THEME: Uncomment line below to activate -->
-	<FPthemeColor>d82113</FPthemeColor><FPselectColor>d82113</FPselectColor><FPtextColor>ffffff</FPtextColor>
+	<FPthemeColor>d82113</FPthemeColor><FPselectColor>d82113</FPselectColor><FPtextColor>ffffff</FPtextColor><FPbgMenuColor>c5beb4</FPbgMenuColor>
 	
 	<!-- SPICE/ORANGE THEME: Uncomment line below to activate -->
 	<!-- <FPthemeColor>d8660d</FPthemeColor><FPselectColor>d8660d</FPselectColor><FPtextColor>000000</FPtextColor> -->

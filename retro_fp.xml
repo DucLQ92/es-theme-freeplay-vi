@@ -21,7 +21,7 @@
 	<!-- <FPthemeColor>f3d06a</FPthemeColor><FPselectColor>f3d06a</FPselectColor><FPtextColor>000000</FPtextColor> -->
 
 	<!-- RETRO THEME: Uncomment line below to activate -->
-	<FPthemeColor>a070c8</FPthemeColor><FPselectColor>a070c8</FPselectColor><FPtextColor>ffffff</FPtextColor>
+	<FPthemeColor>5a3144</FPthemeColor><FPselectColor>5a3144</FPselectColor><FPtextColor>ece5d3</FPtextColor><FPbgMenuColor>c5beb4</FPbgMenuColor>
 
 	<!-- GREEN THEME: Uncomment line below to activate -->
 	<!-- <FPthemeColor>45a95f</FPthemeColor><FPselectColor>45a95f</FPselectColor><FPtextColor>ffffff</FPtextColor> -->

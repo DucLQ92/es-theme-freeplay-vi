@@ -42,7 +42,7 @@
 	<!-- <FPthemeColor>333333</FPthemeColor><FPselectColor>cccccc</FPselectColor><FPtextColor>000000</FPtextColor> -->
 
 	<!-- PLATINUM THEME: Uncomment line below to activate -->
-	<FPthemeColor>9c9da2</FPthemeColor><FPselectColor>9c9da2</FPselectColor><FPtextColor>000000</FPtextColor>
+	<FPthemeColor>9c9da2</FPthemeColor><FPselectColor>9c9da2</FPselectColor><FPtextColor>000000</FPtextColor><FPbgMenuColor>c5beb4</FPbgMenuColor>
 	
 	<!-- ARCTIC/WHITE THEME: Uncomment line below to activate -->
 	<!-- <FPthemeColor>ffffff</FPthemeColor><FPselectColor>ffffff</FPselectColor><FPtextColor>000000</FPtextColor> -->

@@ -45,7 +45,7 @@
 	<!-- <FPthemeColor>9c9da2</FPthemeColor><FPselectColor>9c9da2</FPselectColor><FPtextColor>000000</FPtextColor> -->
 	
 	<!-- ARCTIC/WHITE THEME: Uncomment line below to activate -->
-	<FPthemeColor>ffffff</FPthemeColor><FPselectColor>ffffff</FPselectColor><FPtextColor>000000</FPtextColor>
+	<FPthemeColor>ffffff</FPthemeColor><FPselectColor>ffffff</FPselectColor><FPtextColor>000000</FPtextColor><FPbgMenuColor>c5beb4</FPbgMenuColor>
 		
 	</variables>
 </theme>

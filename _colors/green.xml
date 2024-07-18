@@ -24,7 +24,7 @@
 	<!-- <FPthemeColor>ffff00</FPthemeColor><FPselectColor>ffff00</FPselectColor><FPtextColor>000000</FPtextColor> -->
 
 	<!-- GREEN THEME: Uncomment line below to activate -->
-	<FPthemeColor>45a95f</FPthemeColor><FPselectColor>45a95f</FPselectColor><FPtextColor>ffffff</FPtextColor>
+	<FPthemeColor>45a95f</FPthemeColor><FPselectColor>45a95f</FPselectColor><FPtextColor>ffffff</FPtextColor><FPbgMenuColor>c5beb4</FPbgMenuColor>
 
 	<!-- GLACIER/CLEAR-BLUE THEME: Uncomment line below to activate -->
 	<!-- <FPthemeColor>889cc2</FPthemeColor><FPselectColor>889cc2</FPselectColor><FPtextColor>000000</FPtextColor> -->
