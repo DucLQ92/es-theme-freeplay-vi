@@ -69,19 +69,21 @@
             <color>${FPtextColor}</color>
         </helpsystem>
         <menuBackground name="menubg">
-            <color>${FPthemeColor}</color>
+            <color>${FPbgMenuColor}</color>
         </menuBackground>
         <menuText name="menutext, menutitle">
             <fontPath>./_inc/fonts/Oswald-Light.ttf</fontPath>
             <fontSize>.042</fontSize>
-            <color>${FPtextColor}</color>
-            <separatorColor>${FPtextColor}</separatorColor>
+            <color>${FPthemeColor}</color>
+            <separatorColor>${FPthemeColor}</separatorColor>
+            <selectedColor>${FPtextColor}</selectedColor>
+            <selectorColor>${FPthemeColor}</selectorColor>
         </menuText>
         <menuText name="menufooter, menutextsmall">
-            <color>${FPtextColor}</color>
+            <color>${FPthemeColor}</color>
         </menuText>
         <menuSwitch name="menuswitch">
-            <color>${FPtextColor}</color>
+            <color>${FPthemeColor}</color>
         </menuSwitch>
     </view>
 </theme>
